@@ -1,0 +1,107 @@
+{
+    "message_count_1": {
+        "name": "🗨️ Chatter",
+        "description": "**Send your first message.**",
+        "criteria": {
+            "message_count": 1
+        }
+    },
+    "message_count_10000": {
+        "name": "💬 Big Chatter",
+        "description": "**Send 10,000 messages.**",
+        "criteria": {
+            "message_count": 10000
+        }
+    },
+    "message_count_50000": {
+        "name": "💬 Mega Chatter",
+        "description": "**Send 50,000 messages.**",
+        "criteria": {
+            "message_count": 50000
+        }
+    },
+    "message_count_250000": {
+        "name": "🌟 Chat Master",
+        "description": "**Send 250,000 messages.**",
+        "criteria": {
+            "message_count": 250000
+        }
+    },
+    "message_count_750000": {
+        "name": "💫 Mythical Chatter",
+        "description": "**Send 750,000 messages.**",
+        "criteria": {
+            "message_count": 750000
+        }
+    },
+    "message_count_1000000": {
+        "name": "🚀 ULTIMATE CHATTER",
+        "description": "**Send 1,000,000 messages.**",
+        "criteria": {
+            "message_count": 1000000
+        }
+    },
+    "trivia_points_1": {
+        "name": "1️⃣ First Point",
+        "description": "**Make 1 Trivia Point.**",
+        "criteria": {
+            "trivia_points": 1
+        }
+    },
+    "trivia_points_50": {
+        "name": "👨‍🎓 Average Player",
+        "description": "**Make 50 Trivia Point.**",
+        "criteria": {
+            "trivia_points": 50
+        }
+    },
+    "trivia_points_200": {
+        "name": "💪 Amateur Player",
+        "description": "**Make 200 Trivia Point.**",
+        "criteria": {
+            "trivia_points": 200
+        }
+    },
+    "trivia_points_500": {
+        "name": "🤴 Pro Player",
+        "description": "**Make 500 Trivia Point.**",
+        "criteria": {
+            "trivia_points": 500
+        }
+    },
+    "trivia_points_1000": {
+        "name": "🕵️‍♂️ Game Master",
+        "description": "**Make 1000 Trivia Point.**",
+        "criteria": {
+            "trivia_points": 1000
+        }
+    },
+    "trivia_points_2000": {
+        "name": "👨‍💻 Cheater",
+        "description": "**Make 2000 Trivia Point.**",
+        "criteria": {
+            "trivia_points": 2000
+        }
+    },
+    "trivia_points_10000": {
+        "name": "😱 DO YOU HAVE A LIFE?!",
+        "description": "**Make 10000 Trivia Point.**",
+        "criteria": {
+            "trivia_points": 10000
+        }
+    },
+    "user_id_meeting_owner": {
+        "name": "🦅 MEET THE OWNER!",
+        "description": "**Meet the Owner in a voice channel.**",
+        "criteria": {
+            "roles_id_met": "1061477286618071141"
+        }
+    },
+    "user_id_meeting_coowner": {
+        "name": "🐂 MEET THE CO-OWNER!",
+        "description": "**Meet the Co-Owner in a voice channel.**",
+        "criteria": {
+            "roles_id_met": "1061477150164779129"
+        }
+    }
+}

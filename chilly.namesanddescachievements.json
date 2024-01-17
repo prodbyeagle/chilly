@@ -1,0 +1,36 @@
+{
+    "names": [
+        "\ud83d\udde8\ufe0f Chatter",
+        "\ud83d\udcac Big Chatter",
+        "\ud83d\udcac Mega Chatter",
+        "\ud83c\udf1f Chat Master",
+        "\ud83d\udcab Mythical Chatter",
+        "\ud83d\ude80 ULTIMATE CHATTER",
+        "1️⃣ First Point",
+        "👨‍🎓 Average Player",
+        "💪 Amateur Player",
+        "🤴 Pro Player",
+        "🕵️‍♂️ Game Master",
+        "👨‍💻 Cheater",
+        "😱 DO YOU HAVE A LIFE?!",
+        "\ud83e\udd85 MEET THE OWNER!",
+        "\ud83d\udc02 MEET THE CO-OWNER!"
+    ],
+    "descriptions": {
+        "\ud83d\udde8\ufe0f Chatter": "**Send your first message.**",
+        "\ud83d\udcac Big Chatter": "**Send 10,000 messages.**",
+        "\ud83d\udcac Mega Chatter": "**Send 50,000 messages.**",
+        "\ud83c\udf1f Chat Master": "**Send 250,000 messages.**",
+        "\ud83d\udcab Mythical Chatter": "**Send 750,000 messages.**",
+        "\ud83d\ude80 ULTIMATE CHATTER": "**Send 1,000,000 messages.**",
+        "1️⃣ First Point": "**Make 1 Trivia Point.**",
+        "👨‍🎓 Average Player": "**Make 50 Trivia Points.**",
+        "💪 Amateur Player": "**Make 200 Trivia Points.**",
+        "🤴 Pro Player": "**Make 500 Trivia Points.**",
+        "🕵️‍♂️ Game Master": "**Make 1000 Trivia Point.**",
+        "👨‍💻 Cheater": "**Make 2000 Trivia Point.**",
+        "😱 DO YOU HAVE A LIFE?!": "**Make 10000 Trivia Point.**",
+        "\ud83e\udd85 MEET THE OWNER!": "**Meet the Owner in a voice channel.**",
+        "\ud83d\udc02 MEET THE CO-OWNER!": "**Meet the Co-Owner in a voice channel.**"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "dwhincandi": [
+        "message_count_1"
+    ],
+    "dwhincandii": [
+        "user_id_meeting_owner",
+        "user_id_meeting_coowner",
+        "trivia_points_1"
+    ],
+    "prodbyeagle": [
+        "message_count_1"
+    ],
+    "lerxyonhub": [
+        "user_id_meeting_owner",
+        "user_id_meeting_coowner"
+    ]
+}
