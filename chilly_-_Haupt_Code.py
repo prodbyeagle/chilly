@@ -20,19 +20,19 @@ intents.typing = True
 intents.presences = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-TOKEN = "MTEwOTUzOTE4NDI3Nzk5MTQ2NA.GuHmMo.IdfH_jEmOiB5Wn2gIjLJOEqI0N7fgKX5sW77TM"
+TOKEN = "DISCORD TOKEN"
 
-GUILD_ID =                1108128390030045237
-CHANNEL_ID =              1148624460941901834
-DEBUG_CHANNEL_ID =        1147632992446054604
-BANS_CHANNEL_ID =         1154684567563812874
-log_channel_id =          1157373710215422063
-APPEAL_CHANNEL_ID =       1148624463378796756
-UPDATE_CHANNEL_ID =       1146634676505681942
-ANNOUNCEMENT_CHANNEL_ID = 1114878899558567936
-WELCOME_CHANNEL_ID =      1053321317526544547
-afk_channel_id =          893762439831765022
-staff_role_id =           1106066036886867998
+GUILD_ID =                # Server ID
+CHANNEL_ID =              # Channel ID
+DEBUG_CHANNEL_ID =        # Debugging Channel ID
+BANS_CHANNEL_ID =         # Ban Logs Channel ID
+log_channel_id =          # Command Logs Server ID
+APPEAL_CHANNEL_ID =       # Unban Appeal Channel ID
+UPDATE_CHANNEL_ID =       # Update Blog Channel ID
+ANNOUNCEMENT_CHANNEL_ID = # Announcements Channel ID
+WELCOME_CHANNEL_ID =      # Welcome Channel ID
+afk_channel_id =          # Afk Voice Call
+staff_role_id =           # Staff Role ID (Admin, Mod, ...)
 
 DEBUG_MODE = False
 update_active = False
@@ -42,8 +42,8 @@ RPC_UPDATE_STATE = '⚙️ | Updating.. | 🦅'
 CONFIG_FILE = 'chilly_config.json'
 MUTED_DATA_FILE = 'chilly_muteddata.json'
 REPORTS_FILE = 'chilly_reportdata.json'
-COOWNER_ID = 893792975761584139
-OWNER_ID = 893759402832699392
+COOWNER_ID = # Co. Owner ID falls gibt
+OWNER_ID = # OWNER ID
 api_key = "91ff30ed7c6b795e73c6a5d078060f60"
 
 # ANFANG
