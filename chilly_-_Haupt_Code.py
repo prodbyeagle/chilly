@@ -44,7 +44,7 @@ MUTED_DATA_FILE = 'chilly_muteddata.json'
 REPORTS_FILE = 'chilly_reportdata.json'
 COOWNER_ID = # Co. Owner ID falls gibt
 OWNER_ID = # OWNER ID
-api_key = "91ff30ed7c6b795e73c6a5d078060f60"
+api_key = # Get the api key here: https://openweathermap.org/api
 
 # ANFANG
 
